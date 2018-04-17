@@ -1,0 +1,31 @@
+<CIBIL>
+		  <party>
+			<partyreference>applicant</partyreference>
+			<rawdata>
+			  <TransactData>
+				<Application.UniqueCPlusApplicationNumber>$dataMap.get('UniqueCPlusApplicationNumber')</Application.UniqueCPlusApplicationNumber>
+				<ClientSpecific.NumericSL15Var5>$dataMap.get('NumericSL15Var5')</ClientSpecific.NumericSL15Var5>
+				<ClientSpecific.NumericSL15Var29>$dataMap.get('NumericSL15Var29')</ClientSpecific.NumericSL15Var29>
+				<ClientSpecific.NumericSL15Var37>$dataMap.get('NumericSL15Var37')</ClientSpecific.NumericSL15Var37>
+				<ClientSpecific.NumericSL3Var54>$dataMap.get('NumericSL3Var54')</ClientSpecific.NumericSL3Var54>
+				<ClientSpecific.NumericSL3Var59>$dataMap.get('NumericSL3Var59')</ClientSpecific.NumericSL3Var59>
+				<ClientSpecific.NumericSL3Var62>$dataMap.get('NumericSL3Var62')</ClientSpecific.NumericSL3Var62>
+				<ClientSpecific.NumericSL15Var40>$dataMap.get('NumericSL15Var40')</ClientSpecific.NumericSL15Var40>
+				<ClientSpecific.NumericSL15Var41>$dataMap.get('NumericSL15Var41')</ClientSpecific.NumericSL15Var41>
+				<ClientSpecific.NumericSL15Var42>$dataMap.get('NumericSL15Var42')</ClientSpecific.NumericSL15Var42>
+				<ClientSpecific.NumericSL15Var43>$dataMap.get('NumericSL15Var43')</ClientSpecific.NumericSL15Var43>
+				<ClientSpecific.NumericSL15Var44>$dataMap.get('NumericSL15Var44')</ClientSpecific.NumericSL15Var44>
+				<ClientSpecific.NumericSL15Var2>$dataMap.get('NumericSL15Var2')</ClientSpecific.NumericSL15Var2>
+				<ClientSpecific.NumericSL15Var3>$dataMap.get('NumericSL15Var3')</ClientSpecific.NumericSL15Var3>
+				<ClientSpecific.NumericSL3Var61>$dataMap.get('NumericSL3Var61')</ClientSpecific.NumericSL3Var61>
+				<ClientSpecific.NumericSL3Var19>$dataMap.get('NumericSL3Var19')</ClientSpecific.NumericSL3Var19>
+				<ClientSpecific.NumericSL15Var33>$dataMap.get('NumericSL15Var33')</ClientSpecific.NumericSL15Var33>
+				<ClientSpecific.NumericSL3Var31>$dataMap.get('NumericSL3Var31')</ClientSpecific.NumericSL3Var31>
+				<ClientSpecific.NumericSL3Var5>$dataMap.get('NumericSL3Var5')</ClientSpecific.NumericSL3Var5>
+				<ClientSpecific.NumericSL15Var11>$dataMap.get('NumericSL15Var11')</ClientSpecific.NumericSL15Var11>
+				<ErrorBlock.BureauErrorCode>$dataMap.get('BureauErrorCode')</ErrorBlock.BureauErrorCode>
+			  </TransactData>
+			  $dataMap.get('RAWDATA')
+	</rawdata>
+  </party>
+</CIBIL>

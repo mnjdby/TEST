@@ -1,0 +1,17 @@
+Configuration for endpoints: below properties can be overridden by passing them as jvm arguments to server
+
+dupe.check.days.count=30
+web.host=http://webhosturl/
+crm-ws.host=https://crmesb.fullertonindia.com:9082/magicxpi4_1/MGrqispi.dll?appname=IFSCRMNext&prgname=HTTP&arguments=-ACRM#Service
+bre-ws.host=https://breesb.fullertonindia.com:9080/magicxpi4_1/MGrqispi.dll?appname=IFSBRE&prgname=HTTP&arguments=-AHTTP_BRE#BRE
+cp-ws.host=https://dev.fullertonindia.com:8085/OUGBufferedWebServiceComponent/UGService
+#cp-ws.host=http://localhost:8082/
+otp-ws.host=http://192.168.84.196:8080/otp-service/
+aadhaar-ws.host=https://ekycuat.fullertonindia.com/ECSFullertonAadhaarServiceV2/FullertonUIDClientService
+aadhaar-ws.username=winjituat
+aadhaar-ws.password=dYa@pas2
+aadhaar-ws.udc=WJUAT07122017001
+pan-ws.host=https://panvesbuat.fullertonindia.com/magicxpi4_1/MGrqispi.dll
+pan-ws.userid=Ilab
+pan-ws.key=1ePodLa0V7BMvxfsGlVm7Q==
+omnidocs.host=/Users/nitish/Documents/temp/
